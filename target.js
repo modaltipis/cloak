@@ -1,3 +1,3 @@
 function redirectTo() {
-  window.location.href = "https://mpo11.net"; // Ganti target di sini aja bro
+  window.location.href = "https://pastidibantu.com/mpo11grupmarkon";
 }
